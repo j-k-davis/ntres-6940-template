@@ -21,3 +21,5 @@ Assignment#  |  Fully completed |  Partially completed  | Not completed |
 7  |    |    |    |  
 8  |    |    |    |  
 9  |    |    |    |  
+
+Lab 3: https://j-k-davis.github.io/assignment-3-jd982
